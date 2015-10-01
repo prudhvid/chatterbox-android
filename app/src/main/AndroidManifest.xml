@@ -24,6 +24,10 @@
             android:name=".single_message"
             android:label="@string/title_activity_single_message" >
         </activity>
+        <activity
+            android:name=".Friends"
+            android:label="@string/title_activity_friends" >
+        </activity>
     </application>
 
 </manifest>
